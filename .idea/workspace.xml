@@ -1,7 +1,293 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65bb1b7e-3f01-4bf1-a4b8-e4ce2f5635a5" name="Default" comment="" />
+    <list default="true" id="65bb1b7e-3f01-4bf1-a4b8-e4ce2f5635a5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/searchLogic/seach.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/.github/ISSUE_TEMPLATE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/.github/PULL_REQUEST_TEMPLATE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/.travis/docker.cnf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/.travis/wait_mysql.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/AUTHORS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/appengine.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/benchmark_go18_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/benchmark_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/buffer.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/collations.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/connection.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/connection_go18.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/connection_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/const.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/driver.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/driver_go18_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/driver_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/dsn.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/dsn_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/errors.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/errors_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/infile.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/packets.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/packets_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/result.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/rows.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/statement.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/transaction.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/utils.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/utils_go17.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/utils_go18.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/utils_go18_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/utils_legacy.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-sql-driver/mysql/utils_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/builder.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/builder_delete.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/builder_insert.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/builder_select.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/builder_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/builder_update.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/circle.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_and.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_between.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_compare.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_eq.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_expr.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_in.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_like.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_neq.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_not.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_notin.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_null.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/cond_or.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/doc.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/builder/error.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/benchmark.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/cache.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/circle.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/column.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/converstion.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/db.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/db_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/dialect.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/driver.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/error.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/filter.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/ilogger.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/index.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/mapper.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/mapper_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/pk.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/pk_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/rows.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/scan.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/table.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/table_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/core/type.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/README_CN.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/cache_lru.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/cache_lru_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/cache_memory_store.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/cache_memory_store_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/cache_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/circle.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/context.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/context_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/convert.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/dialect_mssql.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/dialect_mysql.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/dialect_oracle.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/dialect_postgres.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/dialect_postgres_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/dialect_sqlite3.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/doc.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/docs/images/cache_design.graffle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/docs/images/cache_design.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/engine.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/engine_cond.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/engine_group.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/engine_group_policy.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/engine_maxlife.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/error.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/cache.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/cachegoroutine.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/conversion.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/derive.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/find.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/goroutine.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/maxconnect.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/singlemapping.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/sync.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/examples/tables.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/gen_reserved.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/helpers.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/helpers_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/helpler_time.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/interface.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/logger.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/migrate/migrate.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/migrate/migrate_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/pg_reserved.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/processors.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/processors_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/rows.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/rows_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_cols.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_cols_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_cond.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_cond_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_convert.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_delete.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_delete_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_exist.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_exist_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_find.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_find_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_get.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_get_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_insert.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_insert_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_iterate.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_iterate_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_pk_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_query.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_query_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_raw.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_raw_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_schema.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_schema_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_stats.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_stats_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_tx.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_tx_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_update.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/session_update_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/statement.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/statement_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/syslogger.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/tag.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/tag_cache_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/tag_extends_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/tag_id_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/tag_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/tag_version_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_mssql.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_mssql_cache.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_mymysql.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_mymysql_cache.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_mysql.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_mysql_cache.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_postgres.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_postgres_cache.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_sqlite.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/test_sqlite_cache.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/time_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/types.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/types_null_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/types_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/common.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/common_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/config.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/doc.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/dump.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/dump_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/dumpcgo_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/dumpnocgo_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/example_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/format.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/format_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/internal_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/spew.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/spew_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/davecgh/go-spew/spew/testdata/dumpcgo.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/buffer.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/connection.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/const.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/driver.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/driver_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/errors.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/infile.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/packets.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/result.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/rows.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/statement.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/transaction.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/utils.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/go-sql-driver/mysql/utils_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/array.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/array_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/bench_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/buf.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/conn.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/conn_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/copy.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/copy_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/doc.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/encode.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/encode_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/error.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/go18_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/issues_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/notify.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/notify_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/oid/doc.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/oid/gen.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/oid/types.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/ssl_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/url.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/url_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/user_posix.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/lib/pq/user_windows.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/pmezard/go-difflib/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/pmezard/go-difflib/difflib/difflib.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/pmezard/go-difflib/difflib/difflib_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/stretchr/testify/assert/assertions.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/stretchr/testify/assert/assertions_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/stretchr/testify/assert/doc.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/stretchr/testify/assert/errors.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/stretchr/testify/assert/forward_assertions.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/stretchr/testify/assert/forward_assertions_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/stretchr/testify/assert/http_assertions.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/github.com/stretchr/testify/assert/http_assertions_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/assertion_forward.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/assertion_forward.go.tmpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/assertions.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/assertions_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/doc.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/errors.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/forward_assertions.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/forward_assertions_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/http_assertions.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/gopkg.in/stretchr/testify.v1/assert/http_assertions_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/vendor/vendor.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/xorm.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/github.com/go-xorm/xorm/xorm_test.go" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/data/data.go" afterPath="$PROJECT_DIR$/data/data.go" />
+      <change beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,14 +296,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="878">
-              <caret line="127" column="9" lean-forward="true" selection-start-line="127" selection-start-column="9" selection-end-line="127" selection-end-column="9" />
+            <state relative-caret-position="275">
+              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="24" />
               <folding>
-                <element signature="e#14#42#0" expanded="true" />
+                <element signature="e#14#266#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -26,8 +312,23 @@
       <file leaf-file-name="data.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/data.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="702">
+              <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="10" />
+              <folding>
+                <element signature="e#14#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seach.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/searchLogic/seach.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1931">
+              <caret line="113" column="25" lean-forward="true" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="25" />
+              <folding>
+                <element signature="e#21#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,10 +343,14 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Dictionaries.go" />
+        <option value="$PROJECT_DIR$/searchLogic/seach.go" />
         <option value="$PROJECT_DIR$/data/data.go" />
         <option value="$PROJECT_DIR$/main.go" />
       </list>
@@ -60,17 +365,29 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="2576" />
     <option name="height" value="1416" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,15 +399,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\go\src\github.com\alezh\search" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,7 +427,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="search" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
@@ -114,34 +436,31 @@
       <package value="github.com/alezh/search" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build main.go" />
-      </list>
-    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32942098" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3379531" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,41 +469,184 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dictionaries.go">
+    <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#266#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/data.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#195#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionaries.go" />
     <entry file="file://C:/Go/src/unicode/letter.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
-          <caret line="250" column="18" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
+          <caret line="250" column="18" lean-forward="false" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Go/src/builtin/builtin.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
-          <caret line="186" column="25" selection-start-line="186" selection-start-column="25" selection-end-line="186" selection-end-column="25" />
+          <caret line="186" column="25" lean-forward="false" selection-start-line="186" selection-start-column="25" selection-end-line="186" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/github.com/go-xorm/core/db.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/runtime.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/runtime1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="91" column="12" lean-forward="true" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/env_posix.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/cmd/go/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="87" column="37" lean-forward="false" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../nsf/gocode/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="286" column="14" lean-forward="false" selection-start-line="286" selection-start-column="14" selection-end-line="286" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/go/build/build.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/cmd/go/internal/work/build_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="144" column="33" lean-forward="false" selection-start-line="144" selection-start-column="33" selection-end-line="144" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../huichen/sego/segmenter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gin-gonic/gin/mode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/os/env.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="79" column="5" lean-forward="false" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/extern.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="217" column="5" lean-forward="false" selection-start-line="217" selection-start-column="5" selection-end-line="217" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../huichen/sego/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="59" column="5" lean-forward="false" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/strings/strings.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <caret line="463" column="5" lean-forward="false" selection-start-line="463" selection-start-column="5" selection-end-line="463" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchLogic/seach.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1931">
+          <caret line="113" column="25" lean-forward="true" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="25" />
+          <folding>
+            <element signature="e#21#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="10" />
+          <folding>
+            <element signature="e#14#195#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="878">
-          <caret line="127" column="9" lean-forward="true" selection-start-line="127" selection-start-column="9" selection-end-line="127" selection-end-column="9" />
+        <state relative-caret-position="275">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="24" />
           <folding>
-            <element signature="e#14#42#0" expanded="true" />
+            <element signature="e#14#266#0" expanded="true" />
           </folding>
         </state>
       </provider>
