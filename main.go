@@ -26,7 +26,7 @@ func main()  {
 	router.GET("/get/:name", Index)
 	router.GET("/product/:key", Gets)
 
-	log.Fatal(http.ListenAndServe(":8080", router))
+	log.Fatal(http.ListenAndServe("172.16.13.42:8080", router))
 
 
 }
@@ -43,6 +43,7 @@ func Index(w http.ResponseWriter, r *http.Request, ps httprouter.Params) {
 			}
 		}
 	}
+	w.Write([]byte("完成\n"))
 }
 
 func Gets(w http.ResponseWriter, r *http.Request, ps httprouter.Params)  {
@@ -58,4 +59,5 @@ func Gets(w http.ResponseWriter, r *http.Request, ps httprouter.Params)  {
 			}
 		}
 	}
+	w.Write([]byte("完成\n"))
 }
